@@ -42,7 +42,7 @@ I build **backend systems** focused on clarity, performance, and long-term maint
   <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/german-david-navas-rodriguez-b119971a0" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
